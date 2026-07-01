@@ -15,6 +15,12 @@ ESP32 has built-in WiFi and is suitable for IoT applications.
 To store and visualize sensor data in the cloud.
 
 ## 📷 Screenshots
+![Water Level Monitoring](water%20level%20monitoring%201.jpeg)
+
+
+
+
+![ThingSpeak Dashboard](water%20level%20monitoring%202.jpeg)
 
 
 ## 🔗 Features
